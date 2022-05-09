@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 --> 
 [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `ITs me verdi`  </p>
 
-  src="https://readme-typing-svg.herokuapp.com?size=21&width=280&lines=HAI+BANG+GW VERDI+SALAMKENAL+🗿?+"
-            alt="VERDI-botz"
+ `AYANG MAAP IN GW AHAHA`
