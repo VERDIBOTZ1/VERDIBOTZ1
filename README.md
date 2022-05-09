@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .MY IS MALE .
 - ⚡ Fun fact: ...
 --> 
+[![VERDI] im verdi 
