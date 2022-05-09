@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: .ME JAWATIMUR MOJOKERTO.
 - 😄 Pronouns: .MY IS MALE .
 - ⚡ Fun fact: ...
---> [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `ITs me verdi`  </p>
+--> 
+[![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `ITs me verdi`  </p>
