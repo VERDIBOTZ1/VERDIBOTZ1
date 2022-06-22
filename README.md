@@ -7,6 +7,10 @@
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/VERDIBOTZ1"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=TIADA+YANG+INDAH;SELAIN'MELIHAT+MU" alt="Asu">
+</p>
+
 <!--
 **VERDIBOTZ1/VERDIBOTZ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
