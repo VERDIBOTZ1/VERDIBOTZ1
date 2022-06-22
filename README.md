@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 [![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  `ITs me verdi`  </p>
 
- `tiada yang indah selain sediri
+ `tiada yang indah selain sediri`
